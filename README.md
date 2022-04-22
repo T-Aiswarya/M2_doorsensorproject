@@ -1,1 +1,1 @@
-# M2_embedded-project
+# M2_embedded
