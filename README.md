@@ -1,1 +1,1 @@
-# M2_embedded door sensor 
+# M2_door sensor
