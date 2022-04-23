@@ -12,4 +12,4 @@
 #### Then lights are switched on for 2 to 3 minutes and switched off automatically
 
 ## All Test Cases are Passed 
-## Thus the result of the project is as implemented designed and Executed Effectively
+    Thus the result of the project is as implemented designed and Executed Effectively
